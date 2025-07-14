@@ -69,4 +69,4 @@ This submission reflects my work during the limited time frame of the hackathon.
 If you're exploring this repository after finding my LinkedIn post — welcome!  
 Whether you're a policymaker, fellow participant, data scientist, or enthusiast, I’d love to hear your thoughts or ideas for enhancement.
 
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/sannidhya-das) or raise an issue/discussion in this repo.
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/sannidhya-das3/) or raise an issue/discussion in this repo.
